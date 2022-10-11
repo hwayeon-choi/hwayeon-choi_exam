@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/hwayeon-choi/hwayeon-choi_exam#readme",
   "dependencies": {
+    "mysql": "^2.18.1",
+    "node.js": "^0.0.1-security",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }
